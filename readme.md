@@ -1,12 +1,11 @@
-# alfred-table [![Build Status](https://travis-ci.org/briangonzalez/alfred-table.svg?branch=master)](https://travis-ci.org/briangonzalez/alfred-table)
+# alfred-table
 
 > Flippin&#39; tables, Alfred style.
 
-
 ## Install
 
-```
-$ npm install --global alfred-table
+```sh
+$ npm install --global alfred-table # (ノಥ,_｣ಥ)ノ彡┻━┻
 ```
 
 *Requires [Node.js](https://nodejs.org) 4+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
@@ -14,8 +13,7 @@ $ npm install --global alfred-table
 
 ## Usage
 
-In Alfred, type `table`, <kbd>Enter</kbd>, and your query.
-
+In Alfred, type `table` and then profit.
 
 ## License
 
