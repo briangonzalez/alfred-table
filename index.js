@@ -2,7 +2,7 @@
 const alfy = require('alfy');
 const fs = require('fs');
 
-const tables = fs.readFileSync(`${__dirname}/tables.csv`, 'utf8').toString().split("\n");
+const tables = fs.readFileSync('./tables.txt', 'utf8').toString().split("\n");
 const sampleIndex = Math.floor(Math.random() * tables.length)
 const table = tables[sampleIndex]
 
