@@ -17,4 +17,4 @@ In Alfred, type `table` and then profit.
 
 ## License
 
-MIT © [Brian Gonzalez](https://briangonzalez.org)
+MIT © [Brian Gonzalez](https://www.briangonzalez.org)
